@@ -1,0 +1,33 @@
+p{
+    text-align: center;
+}
+.contenedor{
+    /*background-color: blue;*/
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+}
+
+.caja{
+    background-color: skyblue;
+    margin: 15px;
+    width: 410px;
+    height: 685px;
+}
+
+.cajav{
+    background-color: aqua;
+    margin: 10px;
+    width: 110px;
+    height: 110px;
+    display: inline-block;
+}
+
+.cajah{
+    background-color: aqua;
+    margin: 10px;
+    width: 390px;
+    height: 110px;
+    display: inline-block;
+}
